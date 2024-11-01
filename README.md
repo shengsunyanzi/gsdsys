@@ -1,1 +1,3 @@
-# gsdsys
+{
+type:1
+}
